@@ -1,0 +1,12 @@
+.container {
+  width: 1440px;
+  height: 745px;
+  flex-shrink: 0;
+  display: flex;
+}
+.img-fluid {
+  margin-top: 128px;
+  width: 500px;
+  height: 400px;
+  flex-shrink: 0;
+}
