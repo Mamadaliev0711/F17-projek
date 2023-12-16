@@ -10,3 +10,112 @@
   height: 400px;
   flex-shrink: 0;
 }
+.main-text-1 {
+  width: 127px;
+  height: 29px;
+  flex-shrink: 0;
+  color: #2a2c1f;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px; /* 150% */
+  border-radius: 32px;
+  background: #e7e8e3;
+  text-align: center;
+  padding: 4px 12px 4px 12px;
+}
+.main-text-2 {
+  width: 485px;
+  color: #2a2c1f;
+  font-family: Roboto;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 57.6px; /* 120% */
+}
+.main-text-3 {
+  width: 600px;
+  color: #65665c;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px; /* 150% */
+}
+.footer {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: #fae8e1;
+  gap: 248px;
+  display: flex;
+}
+.footer-icon {
+  width: 32px;
+  color: #cf6f49;
+  font-family: Material Icons;
+  font-size: 32px;
+  font-style: normal;
+  width: 32px;
+  font-weight: 400;
+  line-height: 48px; /* 150% */
+  margin: 0px 8px 0px 8px;
+}
+.footer-bg {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  padding: 0px 8px 0px 8px;
+  border-radius: 8px;
+  background: #fae8e1;
+}
+.footer-main {
+  display: flex;
+  gap: 135px;
+}
+.text-footer {
+  width: 169px;
+  color: #2a2c1f;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px; /* 140% */
+}
+.main-footer-cont {
+  display: flex;
+  gap: 87px;
+}
+.cont-text {
+  width: 245px;
+  color: #65665c;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
+.cont-text-2 {
+  width: 281px;
+  color: #65665c;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
+.btn {
+  width: 192px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  border: 1px solid #e7e8e3;
+  background: #fff;
+  gap: 24px;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.08);
+}
+.button-link {
+    margin-left: 24px;
+}
